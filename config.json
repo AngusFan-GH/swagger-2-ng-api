@@ -1,0 +1,5 @@
+{
+    "outputPath": "./api",
+    "basePath": "/api",
+    "swaggerUrl": "http://192.168.1.152:26013"
+}
